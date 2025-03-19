@@ -1,7 +1,7 @@
 [project]
 name = "element-project-generator"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Small tool for generating automatically and swiftly, making developers easiler in expanding and customing your own project"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
