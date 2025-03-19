@@ -1,0 +1,34 @@
+docs:
+  docs:
+    about:
+      license.md: ""
+    config:
+      code_hightlighting:
+        index.md: ""
+      extensions:
+        index.md: ""
+      palettes:
+        index.md: ""
+      plugins:
+        index.md: ""
+      index.md: ""
+    elements:
+      index.md: ""
+      examples:
+        index.md: ""
+    img: {}
+    navigation:
+      toc.md: ""
+      section_indexes.md: ""
+    overrides:
+      extras.css: ""
+    tile_grid: {}
+    index.md: ""
+    install.md: ""
+    releases.md: ""
+  themse_overrides:
+    main.html: ""
+  Makefile: ""
+  mkdocs.yaml: ""
+  local.yaml: ""
+  README.md: "# Project Documentation"  # Readme file
