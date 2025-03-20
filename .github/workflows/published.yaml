@@ -44,9 +44,9 @@ jobs:
           repository_url: https://upload.pypi.org/legacy/
           skip_existing:  false # Never overwrite existing version
           verbose: true
-        run: |  
-          pip install twine 
-          twine upload dist/*
+        # run: |  
+        #   pip install twine 
+        #   twine upload dist/*
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
