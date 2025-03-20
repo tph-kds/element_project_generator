@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "element-project-generator"
 version = "0.1.0"
@@ -5,3 +9,7 @@ description = "A Small tool for generating automatically and swiftly, making dev
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved ::  Apache-2.0 license",
+]
