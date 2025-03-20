@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "element-project-generator"
-version = "EpGTools-v0.1.1"
+version = "0.1.1"
 description = "A Small tool for generating automatically and swiftly, making developers easiler in expanding and customing your own project"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.9"
 license = "Apache-2.0"
 dependencies = []
 classifiers = [
