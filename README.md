@@ -7,7 +7,7 @@
 
 ## Metadata
 
-- **Version**: 0.1.0  
+- **Version**: EpGTools-v0.1.1  
 - **Author**: [Trần Phi Hùng (Hung Tran)](https://github.com/tph-kds)  
 - **Created**: March 19, 2025  
 - **License**: [Apache License](https://github.com/tph-kds/element_project_generator?tab=Apache-2.0-1-ov-file)
