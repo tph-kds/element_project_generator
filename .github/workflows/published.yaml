@@ -58,5 +58,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist  # Deploy the built .whl file to GitHub Pages
-          keep_files: true     # Keep old versions (for version history)
+          keep_files: false     # Keep old versions (for version history)
           destination_dir: ${{ github.ref_name }}  # Versioned directory
