@@ -2,11 +2,12 @@
 
 # Element Project Generator Tools
 
-
+[![Python](https://img.shields.io/pypi/pyversions/element-project-generator.svg)](https://badge.fury.io/py/element-project-generator)
+[![PyPI](https://badge.fury.io/py/element-project-generator.svg)](https://badge.fury.io/py/element-project-generator)
 
 ## Metadata
 
-- **Version**: 1.0.0  
+- **Version**: 0.1.0  
 - **Author**: [Trần Phi Hùng (Hung Tran)](https://github.com/tph-kds)  
 - **Created**: March 19, 2025  
 - **License**: [Apache License](https://github.com/tph-kds/element_project_generator?tab=Apache-2.0-1-ov-file)
