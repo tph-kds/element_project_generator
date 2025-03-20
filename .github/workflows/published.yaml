@@ -47,7 +47,7 @@ jobs:
           user: ${{ env.TWINE_USERNAME }}
           password: ${{ env.TWINE_PASSWORD }}
           repository_url: https://upload.pypi.org/legacy/
-          skip_existing:  false # Never overwrite existing version
+          skip_existing:  true # Never overwrite existing version
           verbose: true
         # run: |  
         #   pip install twine 
