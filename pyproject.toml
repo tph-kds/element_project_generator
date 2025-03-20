@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "A Small tool for generating automatically and swiftly, making developers easiler in expanding and customing your own project"
 readme = "README.md"
 requires-python = ">=3.11"
-license = "Apache Software License (Apache 2.0)"
+license = "Apache-2.0"
 dependencies = []
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -18,7 +18,7 @@ classifiers = [
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
 
-    "License :: OSI Approved ::  Apache-2.0 license",
+    "License :: OSI Approved :: Apache Software License",
     
     "Intended Audience :: Developers",
     "Intended Audience :: Education",
